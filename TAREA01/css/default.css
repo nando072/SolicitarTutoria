@@ -1,0 +1,30 @@
+﻿body {
+    text-align: center;
+    background: url('../img/fondo.jpg') no-repeat center top;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+
+.container {
+    background: #ffffff;
+    text-align: left;
+    width: 400px;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    padding: 15px 10%;
+    border: 5px none #191a1a;
+    border-radius: 20px;
+    font-family: 'Pangolin', cursive;
+    font-size: 18px;
+}
+
+.container img{
+     border-radius:20px;
+    height: 608px;
+}
